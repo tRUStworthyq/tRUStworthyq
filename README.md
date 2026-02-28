@@ -4,9 +4,10 @@
   <a href="https://t.me/EntityNotFoundException">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tRUStworthyq&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tRUStworthyq&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me&center=true" alt="Typing SVG"/>
 </p>
